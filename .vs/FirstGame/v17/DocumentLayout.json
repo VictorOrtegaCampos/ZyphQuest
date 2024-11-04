@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|d:\\desarrollo videojuegos\\firstgame\\assets\\scripts\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|d:\\desarrollo videojuegos\\firstgame\\assets\\scripts\\coinscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D44386C-0AFB-4A08-0BFD-E99A79DDE4CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Respawn.cs",
+              "DocumentMoniker": "D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\Assets\\Scripts\\Respawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Respawn.cs",
+              "ToolTip": "D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\Assets\\Scripts\\Respawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Respawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:36:32.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerScore.cs",
+              "DocumentMoniker": "D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\Assets\\Scripts\\PlayerScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScore.cs",
+              "ToolTip": "D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\Assets\\Scripts\\PlayerScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:35:17.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoinScore.cs",
+              "DocumentMoniker": "D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\Assets\\Scripts\\CoinScore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinScore.cs",
+              "ToolTip": "D:\\DESARROLLO VIDEOJUEGOS\\FirstGame\\Assets\\Scripts\\CoinScore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:05:35.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
