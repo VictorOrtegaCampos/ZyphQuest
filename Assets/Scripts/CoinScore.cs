@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class ExtraCoinScore : MonoBehaviour
 {
+
+
     [SerializeField] string playerName;
 
     [SerializeField] Vector3 minTeleportRange;
@@ -31,7 +33,7 @@ public class ExtraCoinScore : MonoBehaviour
         }
     }
 
-    /*private void TeleportCoin()
+    private void TeleportCoin()
     {
         Vector3 randomPosition = new Vector3(
             Random.Range(minTeleportRange.x, maxTeleportRange.x),
@@ -40,6 +42,6 @@ public class ExtraCoinScore : MonoBehaviour
         );
 
         transform.localPosition = randomPosition;
-    }*/
+    }
 
 }
